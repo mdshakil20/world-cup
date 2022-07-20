@@ -222,7 +222,6 @@ footer .fa{
 .match_info {
     border: 1px solid #E8E8E8;
     border-radius: 10px;
-    max-width: 252px;
 }
 
 .match_info img{
@@ -385,6 +384,7 @@ footer .fa{
     }  
     .upcoming_matchs{
         grid-template-columns: repeat(2,1fr);
+        margin-left: 0px;
     } 
     .blogs{
         display: grid;
