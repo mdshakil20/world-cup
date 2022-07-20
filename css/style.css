@@ -125,6 +125,8 @@ button{
 
 .blog_item img{
     width: 100%;
+    border-radius: 10px 10px 0 0 ;
+
 }
 .blog_text{
     margin: 10px 0 10px 15px;
